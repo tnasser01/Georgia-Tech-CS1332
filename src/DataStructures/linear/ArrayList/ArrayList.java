@@ -10,7 +10,6 @@ package DataStructures.linear.ArrayList;
  *
  * @author Tania Nasser
  * @userid tnasser3
- * @GTID 903397126
  * @version 1
  */
 public class ArrayList<T> implements DataStructures.linear.ArrayList.ArrayListInterface<T> {

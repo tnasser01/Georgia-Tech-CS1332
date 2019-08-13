@@ -10,7 +10,6 @@ package DataStructures.linear.LinkedList;
  *
  * @author Tania Nasser
  * @userid tnasser3
- * @GTID 903397126
  * @version 1.0
  */
 public class SinglyLinkedList<T> implements LinkedListInterface<T> {

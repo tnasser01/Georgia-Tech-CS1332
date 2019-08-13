@@ -8,7 +8,6 @@ import java.util.NoSuchElementException;
  *
  * @author Tania Nasser
  * @userid tnasser3
- * @GTID 903397126
  * @version 1.0
  */
 public class MaxHeap<T extends Comparable<? super T>> implements
